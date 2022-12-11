@@ -4,6 +4,8 @@
 
 **Phone:** +380939106169
 
+**Discord:** ipolchanin#3836
+
 **Telegram:** t.me/PolchaninovaIrina
 
 **Email:** ira.polchanin@gmail.com
