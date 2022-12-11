@@ -66,9 +66,10 @@ function greet(){
 ---
 
 ## Languages:
+* Ukrainian -  Native
 * English - Intermediate/Upper-intermediate
   ![EF SET Certificate](certificates/EF%20SET%20Certificate%20(1)-1.png)
   ![IELTS](certificates/Полчанинова-сертификат_В2.jpg)
-* Ukrainian -  Native
+
 
 
